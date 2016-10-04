@@ -19,7 +19,7 @@ public class ConexaoBD {
 
     private String caminho = "jdbc:mysql://localhost:3306/seubanco?useSSL=false";  //Responsavel por setar o local do banco de dados.
 
-    private String usuario = "root";  //Usuario padrao do banco postgre.
+    private String usuario = "root";  //Usuario padrao do banco mysql ou postgre.
 
     private String senha = "senhabanco";
 
